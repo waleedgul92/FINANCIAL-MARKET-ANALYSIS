@@ -1,6 +1,10 @@
 # Prob-project MT2005
 # Description
 We compared the Stocks, Cryptocoin and Gold investment and try to get insights by comparing them.  
+## Installing ##
+* Made in jupyter notebook.
+## Exexuting program ##
+* Download the pyton file and datasets and install the liabraries and good to go.
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
