@@ -29,9 +29,10 @@ We compared the Stocks, Bitcoin and Gold investment and try to get insights by c
 * Inflation vs Returns
 ![4](https://user-images.githubusercontent.com/84980384/185660161-cee0ac0e-206a-4275-9c64-533a16143126.png)
 * Linear Regression on Stocks
+
 ![stoks](https://user-images.githubusercontent.com/84980384/185660653-b254c39e-4c35-408c-8d40-e2fbaf096dd1.png)
 * Linear Regression on Bitcoin
-* 
+
 ![bitcoin](https://user-images.githubusercontent.com/84980384/185660673-822ca593-1f7e-472d-ab22-80055e6cf6c5.png)
 * Correlation on Stocks
 * Correlation on Gold
