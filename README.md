@@ -13,5 +13,5 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
    [​LinkedIn​](https://www.linkedin.com/in/arham-nasir-365137217//)
 4. Zain Ul Abidin\
    muhammadzain757@gmail.com\
-   [​LinkedIn​](linkedin.com/in/muhammad-zain-ul-abiddin-83194a201)
+   [​LinkedIn​](linkedin.com/in/muhammad-zain-ul-abiddin-83194a201//)
    
