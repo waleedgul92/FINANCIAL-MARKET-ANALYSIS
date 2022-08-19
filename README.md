@@ -35,10 +35,12 @@ We compared the Stocks, Bitcoin and Gold investment and try to get insights by c
 
 ![bitcoin](https://user-images.githubusercontent.com/84980384/185660673-822ca593-1f7e-472d-ab22-80055e6cf6c5.png)
 * Correlation on Stocks
+
 ![s](https://user-images.githubusercontent.com/84980384/185661462-ba65109c-5f36-4051-9de9-d3c0e4ca8287.png)
 
 * Correlation on Bitcoin
- ![b](https://user-images.githubusercontent.com/84980384/185661467-aa14006b-f5ac-48bc-bf91-6cddadb6677a.png)
+
+![b](https://user-images.githubusercontent.com/84980384/185661467-aa14006b-f5ac-48bc-bf91-6cddadb6677a.png)
 
 ## We did EDA(exploratory Data Analysis),Removed Outliers and Hypotesis Testings but we did not attached screenshots to soley focus on comparision between these three. 
 
