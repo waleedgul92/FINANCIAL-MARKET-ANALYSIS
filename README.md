@@ -7,8 +7,10 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 * Download the pyton file and datasets and install the liabraries and good to go.
 ### Code ###
 * Open Rates (Normal scale)
+![1](https://user-images.githubusercontent.com/84980384/185658972-37103f0e-bd6e-4d48-92ca-ef37dc957bc1.png)
 * Open Rates (Log scale) 
-* Open Rates (Yearly) 
+* ![2](https://user-images.githubusercontent.com/84980384/185659006-284d2042-4e18-43ca-ae9d-0db11ce14b38.png)
+
 * Close Rates (Yearly) 
 * High Rates (Yearly) 
 * Low Rates (Yearly) 
