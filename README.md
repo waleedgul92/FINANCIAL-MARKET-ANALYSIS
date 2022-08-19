@@ -17,6 +17,15 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 * Bitcoin vs Stocks
 * Bitcoin vs Gold
 * Monthly Returns
+* Inflation vs Assets
+* Linear Regression on Stocks
+* Linear Regression on Gold
+* Linear Regression on Bitcoin
+* Correlation on Stocks
+* Correlation on Gold
+* Correlation on Bitcoin
+## We did EDA(exploratory Data Analysis),Removed Outliers ,Hypotesis Testings but we did not attached screenshots to soley focus on Comaprision between these three. 
+
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
