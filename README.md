@@ -10,7 +10,6 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 ![1](https://user-images.githubusercontent.com/84980384/185658972-37103f0e-bd6e-4d48-92ca-ef37dc957bc1.png)
 * Open Rates (Log scale) 
 * ![2](https://user-images.githubusercontent.com/84980384/185659006-284d2042-4e18-43ca-ae9d-0db11ce14b38.png)
-
 * Close Rates (Yearly) 
 ![3](https://user-images.githubusercontent.com/84980384/185659364-8a136d01-ec89-4063-a0d1-30cf1dffb861.png)
 * High Rates (Yearly) 
@@ -22,9 +21,13 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 * Volume Traded (Yearly & Log scale)
 ![2](https://user-images.githubusercontent.com/84980384/185659678-64293f98-8e24-45d2-9fc5-9d0483739821.png)
 * Bitcoin vs Stocks
+![1](https://user-images.githubusercontent.com/84980384/185660129-87834183-c0b3-4252-b93d-93cfdf24c1c4.png)
 * Bitcoin vs Gold
+![2](https://user-images.githubusercontent.com/84980384/185660139-5188d9f5-98a5-4aab-b83e-6bd37f85498c.png)
 * Monthly Returns
-* Inflation vs Assets
+![3](https://user-images.githubusercontent.com/84980384/185660156-c51cb78e-5440-4aee-b79d-9dbca2e4d7f4.png)
+* Inflation vs Returns
+![4](https://user-images.githubusercontent.com/84980384/185660161-cee0ac0e-206a-4275-9c64-533a16143126.png)
 * Linear Regression on Stocks
 * Linear Regression on Gold
 * Linear Regression on Bitcoin
