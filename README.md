@@ -5,6 +5,18 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 * Made in jupyter notebook.
 ## Exexuting program ##
 * Download the pyton file and datasets and install the liabraries and good to go.
+### Code ###
+* Open Rates (Normal scale)
+* Open Rates (Log scale) 
+* Open Rates (Yearly) 
+* Close Rates (Yearly) 
+* High Rates (Yearly) 
+* Low Rates (Yearly) 
+* Volume Traded (Yearly & normal scale) g
+* Volume Traded (Yearly & Log scale) 
+* Bitcoin vs Stocks
+* Bitcoin vs Gold
+* Monthly Returns
 # Authors
 1. ​Waleed Gul<br> 
  ​hwaleed0035@gmail.com<br> 
