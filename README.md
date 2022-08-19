@@ -24,7 +24,7 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 * Correlation on Stocks
 * Correlation on Gold
 * Correlation on Bitcoin
-## We did EDA(exploratory Data Analysis),Removed Outliers ,Hypotesis Testings but we did not attached screenshots to soley focus on Comaprision between these three. 
+## We did EDA(exploratory Data Analysis),Removed Outliers and Hypotesis Testings but we did not attached screenshots to soley focus on comparision between these three. 
 
 # Authors
 1. ​Waleed Gul<br> 
