@@ -17,8 +17,10 @@ We compared the Stocks, Cryptocoin and Gold investment and try to get insights b
 ![4](https://user-images.githubusercontent.com/84980384/185659373-c86d45ef-02df-492f-9282-5373a0a3657c.png)
 * Low Rates (Yearly) 
 ![5](https://user-images.githubusercontent.com/84980384/185659389-57530c81-0bfd-4322-9e7b-2737b5345ca2.png)
-* Volume Traded (Yearly & normal scale) g
-* Volume Traded (Yearly & Log scale) 
+* Volume Traded (Yearly & normal scale) 
+![1](https://user-images.githubusercontent.com/84980384/185659667-de281994-ca3f-429c-84af-1e2a482289ee.png)
+* Volume Traded (Yearly & Log scale)
+![2](https://user-images.githubusercontent.com/84980384/185659678-64293f98-8e24-45d2-9fc5-9d0483739821.png)
 * Bitcoin vs Stocks
 * Bitcoin vs Gold
 * Monthly Returns
