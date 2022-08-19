@@ -1,4 +1,7 @@
 # Prob & Stats-project MT2005
+![68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f656e2f7468756d622f652f65342f4e6174696f6e616c5f556e69766572736974795f6f665f436f6d70757465725f616e645f456d6572676 (1)](https://user-images.githubusercontent.com/84980384/142883094-f0749c11-8373-4c7a-9e07-b94648ab14b5.png)\
+                Compare various assets for 4th semester at FAST National University-NUCES NUCES, karachi
+#
 # Description
 We compared the Stocks, Bitcoin and Gold investment and try to get insights by comparing them.  
 ## Installing ##
