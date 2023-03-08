@@ -45,7 +45,7 @@ We compared the Stocks, Bitcoin and Gold investment and try to get insights by c
 
 ![b](https://user-images.githubusercontent.com/84980384/185661467-aa14006b-f5ac-48bc-bf91-6cddadb6677a.png)
 
-## We did EDA(exploratory Data Analysis),Removed Outliers and Hypotesis Testings but we did not attached screenshots to soley focus on comparision between these three. 
+## We performed exploratory data analysis (EDA), removed outliers, and conducted hypothesis testing. However, we did not include screenshots in our analysis to solely focus on comparing the effectiveness of these techniques.
 
 # Authors
 1. ​Waleed Gul<br> 
